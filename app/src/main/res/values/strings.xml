@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">digiapp</string>
+    <string name="error">İşleminizi gerçekleştiremiyoruz.Lütfen tekrar deneyiniz.</string>
+</resources>
